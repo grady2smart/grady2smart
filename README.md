@@ -5,7 +5,7 @@
 ### Hi there 👋
 ### I am grady2smart
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+a+web+developer;jailbreak+enthusiast;and+student!)](https://git.io/typing-svg)543
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+a+web+developer;jailbreak+enthusiast;and+student!)](https://git.io/typing-svg)
 
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=techdech&theme=react&show_icons=true&include_all_commits=true" />
