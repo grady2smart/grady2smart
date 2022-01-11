@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://techdech.github.io/img/appban.png" width="300" height="100">
+</p>	
+
 ### Hi there 👋
 ### I am grady2smart
 
