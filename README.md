@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://techdech.github.io/img/appban.png" width="300" height="100">
+  <img src="https://techdech.github.io/img/appban.png" width="400" height="100">
 </p>	
 
 ### Hi there 👋
