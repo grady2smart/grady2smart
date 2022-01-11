@@ -8,3 +8,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+a+web+developer;jailbreak+enthusiast;and+student!)](https://git.io/typing-svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=techdech&show_icons=true&theme=radical)
+
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=techdech&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techdech&theme=react&layout=compact" />
+</p>
