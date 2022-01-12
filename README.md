@@ -10,10 +10,11 @@
 </p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+a+web+developer;jailbreak+enthusiast;and+student!" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&width=250&lines=I+am+a+web+developer;jailbreak+enthusiast;and+student!" />
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+a+web+developer;jailbreak+enthusiast;and+student!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&width=250&lines=I+am+a+web+developer;jailbreak+enthusiast;and+student!)](https://git.io/typing-svg)
 
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=techdech&theme=react&show_icons=true&include_all_commits=true" />
