@@ -2,8 +2,8 @@
   <img src="https://techdech.github.io/img/appban.png" width="333" height="100">
 </p>	
 
-<h1 align="left">Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm Saurav</h1>
-###
+<h1 align="left">Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm Grady2smart</h1>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+a+web+developer;jailbreak+enthusiast;and+student!)](https://git.io/typing-svg)
 
