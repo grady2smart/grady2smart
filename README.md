@@ -4,8 +4,8 @@
    
 <h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://shwetang550.github.io/profile/">Grady2smart</a></h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/shwetang-3335b896/">LinkedIN</a> •
-  <a href="https://www.instagram.com/shwetang_singh/">discord</a> •
+  <a href="https://techdech.github.io/">Website</a> •
+  <a href="s">Discord</a> •
   <a href="https://twitter.com/grady2smart">Twitter</a>
 </p>
 
