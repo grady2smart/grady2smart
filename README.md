@@ -8,6 +8,10 @@
   <a href="s">Discord</a> •
   <a href="https://twitter.com/grady2smart">Twitter</a>
 </p>
+![Visitor Count](https://profile-counter.glitch.me/techdech/count.svg)
+<p align="center">
+  
+</p>
 
 <h1 align="left">Hi,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm Grady2smart</h1>
 
