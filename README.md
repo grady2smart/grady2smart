@@ -2,7 +2,7 @@
   <img src="https://techdech.github.io/img/appban.png" width="333" height="100">
 </p>	
    
-<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://github.com/techdech">Grady2smart</a></h2>
+<h2 align="center">Hey, I'm <a href="https://github.com/techdech">Grady2smart</a></h2>
 <p align="center">
   <a href="https://techdech.github.io/">Website</a> •
   <a href="https://techdech.github.io/techdech/discord">Discord</a> •
