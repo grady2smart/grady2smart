@@ -5,7 +5,7 @@
 <h2 align="center">Hey, I'm <a href="https://github.com/techdech">Grady2smart</a></h2>
 <p align="center">
   <a href="https://grady2smart.github.io/">Website</a> •
-  <a href="https://techdech.github.io/techdech/discord">Discord</a> •
+  <a href="https://grady2smart.github.io/techdech/discord">Discord</a> •
   <a href="https://twitter.com/grady2smart">Twitter</a>
 </p>
 
