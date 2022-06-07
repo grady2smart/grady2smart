@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://techdech.github.io/img/appban.png" width="333" height="100">
+  <img src="https://grady2smart.github.io/img/appban.png" width="333" height="100">
 </p>	
    
 <h2 align="center">Hey, I'm <a href="https://github.com/techdech">Grady2smart</a></h2>
@@ -14,8 +14,8 @@
 </p>
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=techdech&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techdech&theme=react&layout=compact" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=grady2smart&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grady2smart&theme=react&layout=compact" />
 </p>
 
 <p align="center">
